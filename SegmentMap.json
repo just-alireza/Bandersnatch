@@ -1,4 +1,4 @@
-﻿{
+﻿{SegmentMap=
   "type": "branching",
   "segments": {
     "1A": {
